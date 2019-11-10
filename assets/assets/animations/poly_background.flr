@@ -1,0 +1,2896 @@
+{
+	"version": 24,
+	"artboards": [
+		{
+			"name": "Artboard",
+			"translation": [
+				0,
+				0
+			],
+			"width": 1024,
+			"height": 768,
+			"origin": [
+				0,
+				0
+			],
+			"clipContents": true,
+			"color": [
+				1,
+				1,
+				1,
+				1
+			],
+			"nodes": [
+				{
+					"name": "NodePolygon",
+					"translation": [
+						-50.4342041015625,
+						86.2300033569336
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 0,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 1,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 1,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 1,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "gradient_bacground",
+					"translation": [
+						520.5,
+						370.5
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 1,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Rectangle Path",
+					"parent": 5,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 1125,
+					"height": 855,
+					"cornerRadius": 0,
+					"type": "rectangle"
+				},
+				{
+					"name": "Color",
+					"parent": 5,
+					"opacity": 1,
+					"numColorStops": 3,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0.12992841005325317,
+						0.9523809552192688,
+						0.9523809552192688,
+						0.9523809552192688,
+						1,
+						0.4155193567276001,
+						0.5523809790611267,
+						0.5523809790611267,
+						0.5523809790611267,
+						1,
+						1
+					],
+					"start": [
+						519.6993408203125,
+						434.540771484375
+					],
+					"end": [
+						-598.0665283203125,
+						-510.84576416015625
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						-50.4342041015625,
+						262.8232727050781
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 8,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 9,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 9,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 9,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						105.00042724609375,
+						174.91342163085938
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 13,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 14,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 14,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 14,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						-50.38999938964844,
+						440.04022216796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 18,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 19,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 19,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 19,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						104.19064331054688,
+						528.499755859375
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 23,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 24,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 24,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 24,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						104.13520812988281,
+						351.53387451171875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 28,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 29,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 29,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 29,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						105.00042724609375,
+						-1.8521804809570312
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 33,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 34,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 34,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 34,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						260.4350891113281,
+						87.33162689208984
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 38,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 39,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 39,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 39,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						415.8697509765625,
+						-0.578125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 43,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 44,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 44,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 44,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						-51.89427947998047,
+						615.9453125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 48,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 49,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 49,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 49,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						260.4350891113281,
+						264.00006103515625
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 53,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 54,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 54,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 54,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						260.4350891113281,
+						440.2919616699219
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 58,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 59,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 59,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 59,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						-50.4342041015625,
+						791.1544799804688
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 63,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 64,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 64,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 64,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						104.84527587890625,
+						704.5801391601562
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 68,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 69,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 69,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 69,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						571.8311157226562,
+						88.69361114501953
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 73,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 74,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 74,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 74,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						415.8697509765625,
+						176.51547241210938
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 78,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 79,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 79,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 79,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						698.2684936523438,
+						556.177978515625
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 83,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 84,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 84,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 84,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						697.4032592773438,
+						732.7984619140625
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 88,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 89,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 89,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 89,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						1007.3602905273438,
+						206.12001037597656
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 93,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 94,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 94,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 94,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						1007.15869140625,
+						733.4395751953125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 98,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 99,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 99,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 99,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						853.703125,
+						821.5565185546875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 103,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 104,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 104,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 104,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						853.703125,
+						645.2646484375
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 108,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 109,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 109,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 109,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						853.703125,
+						468.59613037109375
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 113,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 114,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 114,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 114,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						1009.1378173828125,
+						380.6863098144531
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 118,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 119,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 119,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 119,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						1009.1378173828125,
+						557.780029296875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 123,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 124,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 124,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 124,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				},
+				{
+					"name": "NodePolygon",
+					"translation": [
+						545.3060913085938,
+						819.65673828125
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "fill",
+					"parent": 128,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": -1.570796326794897,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"transformAffectsStroke": false,
+					"type": "shape"
+				},
+				{
+					"name": "Polygon Path",
+					"parent": 129,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						0.800000011920929,
+						0.800000011920929
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 246,
+					"height": 249,
+					"sides": 6,
+					"type": "polygon"
+				},
+				{
+					"name": "Color",
+					"parent": 129,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						1,
+						1,
+						1,
+						1,
+						0,
+						0.8380952477455139,
+						0.8380952477455139,
+						0.8380952477455139,
+						1,
+						1
+					],
+					"start": [
+						-107.044677734375,
+						-59.756103515625
+					],
+					"end": [
+						83.98635864257812,
+						54.1905517578125
+					],
+					"fillRule": 0,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Color",
+					"parent": 129,
+					"opacity": 1,
+					"color": [
+						1,
+						1,
+						1,
+						1
+					],
+					"width": 1.799999999999999,
+					"cap": 0,
+					"join": 1,
+					"trim": 0,
+					"type": "colorStroke"
+				}
+			],
+			"animations": [
+				{
+					"name": "shadow_transition",
+					"fps": 60,
+					"duration": 2.0833333333333335,
+					"isLooping": true,
+					"keyed": [
+						{
+							"component": 5
+						},
+						{
+							"component": 7,
+							"fillGradient": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 2,
+										"cubicX1": 0.5483870967741935,
+										"cubicY1": 0.25806451612903225,
+										"cubicX2": 1,
+										"cubicY2": 1.0309139784946237,
+										"length": 19,
+										"value": [
+											519.6993408203125,
+											434.540771484375,
+											-598.0665283203125,
+											-510.84576416015625,
+											1,
+											1,
+											1,
+											1,
+											0.12992841005325317,
+											0.9523809552192688,
+											0.9523809552192688,
+											0.9523809552192688,
+											1,
+											0.4155193567276001,
+											0.5523809790611267,
+											0.5523809790611267,
+											0.5523809790611267,
+											1,
+											1
+										]
+									},
+									{
+										"time": 0.5,
+										"interpolatorType": 2,
+										"cubicX1": 0.5483870967741935,
+										"cubicY1": 0.25806451612903225,
+										"cubicX2": 1,
+										"cubicY2": 1.0309139784946237,
+										"length": 19,
+										"value": [
+											519.6993408203125,
+											434.540771484375,
+											-598.0665283203125,
+											-510.84576416015625,
+											0.5523809790611267,
+											0.5523809790611267,
+											0.5523809790611267,
+											1,
+											0.1436050832271576,
+											0.9523809552192688,
+											0.9523809552192688,
+											0.9523809552192688,
+											1,
+											0.4155193567276001,
+											1,
+											1,
+											1,
+											1,
+											1
+										]
+									},
+									{
+										"time": 1,
+										"interpolatorType": 2,
+										"cubicX1": 0.5483870967741935,
+										"cubicY1": 0.25806451612903225,
+										"cubicX2": 1,
+										"cubicY2": 1.0309139784946237,
+										"length": 19,
+										"value": [
+											519.6993408203125,
+											434.540771484375,
+											-598.0665283203125,
+											-510.84576416015625,
+											1,
+											1,
+											1,
+											1,
+											0.12992841005325317,
+											0.9523809552192688,
+											0.9523809552192688,
+											0.9523809552192688,
+											1,
+											0.4155193567276001,
+											0.5523809790611267,
+											0.5523809790611267,
+											0.5523809790611267,
+											1,
+											1
+										]
+									},
+									{
+										"time": 1.5,
+										"interpolatorType": 2,
+										"cubicX1": 0.5483870967741935,
+										"cubicY1": 0.25806451612903225,
+										"cubicX2": 1,
+										"cubicY2": 1.0309139784946237,
+										"length": 19,
+										"value": [
+											519.6993408203125,
+											434.540771484375,
+											-598.0665283203125,
+											-510.84576416015625,
+											0.5523809790611267,
+											0.5523809790611267,
+											0.5523809790611267,
+											1,
+											0.1436050832271576,
+											0.9523809552192688,
+											0.9523809552192688,
+											0.9523809552192688,
+											1,
+											0.4155193567276001,
+											1,
+											1,
+											1,
+											1,
+											1
+										]
+									},
+									{
+										"time": 2,
+										"interpolatorType": 1,
+										"length": 19,
+										"value": [
+											519.6993408203125,
+											434.540771484375,
+											-598.0665283203125,
+											-510.84576416015625,
+											1,
+											1,
+											1,
+											1,
+											0.12992841005325317,
+											0.9523809552192688,
+											0.9523809552192688,
+											0.9523809552192688,
+											1,
+											0.4155193567276001,
+											0.5523809790611267,
+											0.5523809790611267,
+											0.5523809790611267,
+											1,
+											1
+										]
+									}
+								]
+							]
+						}
+					],
+					"animationStart": 0,
+					"animationEnd": 2,
+					"type": "animation"
+				}
+			],
+			"type": "artboard"
+		}
+	]
+}
